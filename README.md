@@ -3,10 +3,11 @@ This repo contains a list of simple Unix Utilities as coding exercices from the 
 
 ## Files in the repo
 - `README.md` - Project documentation.
-- `mypwd.c` - Implementation of pwd (print working directory) command.
-- `myecho.c` - Implementation of echo command.
-- `mycp.c` - Implementation of cp command (without arguments just for files to keep it simple).
-- `mymv.c` - Implementation of mv command.
+- `utilities/mypwd.c` - Implementation of pwd (print working directory) command.
+- `utilities/myecho.c` - Implementation of echo command.
+- `utilities/mycp.c` - Implementation of cp command (without arguments just for files to keep it simple).
+- `utilities/mymv.c` - Implementation of mv command.
+- `shell/microshell.c` - Implementation of a microshell providing basic command execution, variable handling, and I/O redirection.
 
 ## Run an utility
 ### Compile exemple
